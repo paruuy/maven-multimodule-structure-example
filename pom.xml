@@ -5,7 +5,7 @@
   <groupId>com.paru.tests</groupId>
   <artifactId>multi-module-project</artifactId>
   <packaging>pom</packaging>
-  <version>1.1.0</version>
+  <version>1.1.1-SNAPSHOT</version>
   <name>Parent Project</name>
 
   <properties>
@@ -47,7 +47,7 @@
 
   <scm>
     <connection>scm:git:git@github.com:paruuy/maven-multimodule-structure-example.git</connection>
-    <tag>multi-module-project-1.1.0</tag>
+    <tag>releaes-tag</tag>
   </scm>
 
 </project>
