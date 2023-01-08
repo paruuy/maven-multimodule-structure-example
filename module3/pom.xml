@@ -4,11 +4,11 @@
   <parent>
     <groupId>com.paru.tests</groupId>
     <artifactId>multi-module-project</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
   </parent>
   <groupId>com.paru.tests</groupId>
   <artifactId>module3</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
   <name>module3</name>
   <url>http://maven.apache.org</url>
   <dependencies>
