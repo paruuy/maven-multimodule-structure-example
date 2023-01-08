@@ -12,3 +12,4 @@ buildNumber.properties
 module1/src/.DS_Store
 module3/.DS_Store
 .gitignore
+.vscode/settings.json
